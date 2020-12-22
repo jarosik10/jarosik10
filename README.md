@@ -1,10 +1,6 @@
 ### Hi, I'm Bartek 👋
 I am 24 years old and I am passionate about programming. The path that fascinates me the most and which I have chosen to take is the path of Frontend. Additionally, I am interested in telemedicine and machine learning.
 
-:office: I'm looking for a job as a Frontend developer.
-
-⚡ I’m currently working on Europe trip optimizer created in React. :mag_right: [Read more.](https://github.com/jarosik10/EuropeTripOptimizer)
-
 <!--
 **jarosik10/jarosik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
